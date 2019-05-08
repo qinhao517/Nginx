@@ -1,6 +1,5 @@
 Nginx从听说到学会
-96  JokerW 
- 5.3 2017.03.28 17:37* 字数 26359 阅读 21654评论 24喜欢 939赞赏 4
+
 第一章 Nginx简介
 Nginx是什么
 没有听过Nginx？那么一定听过它的“同行”Apache吧！Nginx同Apache一样都是一种WEB服务器。基于REST架构风格，以统一资源描述符(Uniform Resources Identifier)URI或者统一资源定位符(Uniform Resources Locator)URL作为沟通依据，通过HTTP协议提供各种网络服务。
